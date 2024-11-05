@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="top_stories">US Presidential Elections</string>
+    <string name="tech">Technology</string>
+    <string name="sports">Sports</string>
+    <string name="trump">Trump Visits Local School</string>
+    <string name="curry">Steph Curry Returns After Ankle Injury</string>
+    <string name="results">76ers Lose Debut Game Against Suns</string>
+    <string name="apple">iOS 18.2 Beta Offers More Incite On Apple Intelligence</string>
+</resources>
